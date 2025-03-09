@@ -1,0 +1,19 @@
+# Copyright notice {-}
+
+```{r}
+#| output: asis
+#| echo: false
+cat("Produced on",format(Sys.Date(), "%e %B %Y.\n\n"))
+cat("{{< meta author >}} (",format(Sys.Date(), "%Y"),").", sep="")
+```
+
+# Abstract {-}
+
+The abstract should outline the main approach and findings of the thesis and must not be more than 500 words.
+
+
+<!--
+The following line is required to re-set page numbering after preliminary material in the pdf output. Do not remove
+-->
+
+\clearpage\pagenumbering{arabic}\setcounter{page}{1}
