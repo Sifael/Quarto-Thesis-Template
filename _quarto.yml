@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "Benchmarking Molecular Properties for Diagnostic Specificity"
-  author: "Sifael Sebastian Ndandala"
+  title: Title of the Thesis"
+  author: "Sifael"
   date: "2023-01-01"
   chapters:
     - text: "Front matter"
